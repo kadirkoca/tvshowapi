@@ -38,9 +38,8 @@ node run start
 
 "seed" command for seed the example 250 tv show data to database
 
-## Dependencies
+## Dependencies 
 
-Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
 | Library | Version |
