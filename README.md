@@ -11,7 +11,7 @@
 - RESTful
 - Express Server
 
-This is an example for RESTful API server for tv shows
+This is an example for RESTful API server for tv shows. This app is
 created by _Kadir KOCA_ - kadirrkoca@gmail.com for feedback
 
 ## Tech
