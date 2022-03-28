@@ -32,8 +32,8 @@ Install the dependencies and devDependencies and start the server.
 Clone the repository
 cd tvshowapi
 npm i
-node run seed
-node run start
+npm run seed
+npm run start
 ```
 
 "seed" command for seed the example 250 tv show data to database
